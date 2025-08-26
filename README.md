@@ -101,29 +101,3 @@ The model was highly effective at predicting the AQI, which is crucial for publi
 *   **Scipy:** For statistical analysis.
 *   **Scikit-learn:** For machine learning, preprocessing, and model evaluation.
 *   **XGBoost:** For gradient boosting implementation.
-
----
-
-## 🏃 How to Run this Project
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
-    ```
-
-2.  **Install the required dependencies:**
-    It is recommended to create a virtual environment first.
-    ```bash
-    pip install pandas numpy matplotlib seaborn scipy scikit-learn xgboost openpyxl
-    ```
-
-3.  **Place the datasets** in the project's root directory:
-    *   `complete_measure_node_airport_brown.csv`
-    *   `complete_measure_node_airport_gold.csv`
-    *   `complete_measure_node_airport_silver.csv`
-    *   `2022-ACCs.xlsx`
-    *   `2023-ACCs.xlsx`
-
-4.  **Run the analysis:**
-    Execute the Python script or Jupyter Notebook (`.ipynb` file) to run the entire data analysis and modeling pipeline.
