@@ -101,3 +101,7 @@ The model was highly effective at predicting the AQI, which is crucial for publi
 *   **Scipy:** For statistical analysis.
 *   **Scikit-learn:** For machine learning, preprocessing, and model evaluation.
 *   **XGBoost:** For gradient boosting implementation.
+
+Oğuzhan Yasin Ceyhan
+Bartu Başar
+Emincan Ünerden
